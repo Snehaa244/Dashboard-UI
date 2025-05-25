@@ -18,7 +18,7 @@ A modern, responsive, and dynamic **Bitcoin Dashboard** built using **React** an
 
 ![Dashboard Screenshot](https://github.com/Snehaa244/Cover-Image/blob/main/Dashboardui.PNG)
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -30,13 +30,11 @@ A modern, responsive, and dynamic **Bitcoin Dashboard** built using **React** an
 
 ## 📦 Installation
 
+> ⚠️ **Cloning this repository is not allowed.**  
+> This project is available for **preview and inspiration purposes only**.  
+> Please do **not copy, clone, or redistribute** without explicit permission from the author.
+
 ```bash
-# 1. Clone the repo
-git clone https://github.com/Snehaa244/Dashboard-UI.git
-cd Dashboard-UI
-
-# 2. Install dependencies
-npm install
-
-# 3. Run the development server
-npm run dev
+# ❌ Cloning not permitted
+# Do NOT run the following:
+# git clone https://github.com/Snehaa244/Dashboard-UI.git
