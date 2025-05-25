@@ -16,7 +16,7 @@ A modern, responsive, and dynamic **Bitcoin Dashboard** built using **React** an
 
 ## 🖼️ Preview
 
-![Dashboard Screenshot](https://via.placeholder.com/1200x600.png?text=Bitcoin+Dashboard+Preview)
+![Dashboard Screenshot](https://github.com/Snehaa244/Cover-Image/blob/main/Dashboardui.PNG)
 
 > Replace the image link above with a screenshot of your app or local deployment.
 
