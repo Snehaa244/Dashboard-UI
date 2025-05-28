@@ -24,7 +24,6 @@ A modern, responsive, and dynamic **Bitcoin Dashboard** built using **React** an
 
 - **Frontend:** React.js
 - **Styling:** Tailwind CSS
-- **Icons & Charts:** (optional) React Icons / Chart.js / Recharts *(if used)*
 
 ---
 
